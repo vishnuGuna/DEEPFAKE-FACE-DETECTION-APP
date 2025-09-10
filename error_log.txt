@@ -1,0 +1,9 @@
+[18-Mar-2025 07:01:24 Europe/Berlin] Error: File upload error.
+[18-Mar-2025 07:02:08 Europe/Berlin] Error: File upload error.
+[18-Mar-2025 07:04:21 Europe/Berlin] Error: File upload error.
+[18-Mar-2025 07:04:35 Europe/Berlin] Error: File upload error.
+[26-Mar-2025 07:10:36 Europe/Berlin] Error: File upload error.
+[26-Mar-2025 07:11:18 Europe/Berlin] Error: File upload error.
+[26-Mar-2025 07:11:21 Europe/Berlin] Error: File upload error.
+[26-Mar-2025 07:12:51 Europe/Berlin] Error: File upload error.
+[27-Mar-2025 07:03:48 Europe/Berlin] Error: cURL Error: Unsupported proxy syntax in 'PROXY URL'
